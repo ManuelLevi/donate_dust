@@ -8,7 +8,7 @@ To add more organizations, just make a pull request!
 
 
 ## Run2Rescue
-Non-profit organization helping victims of sex trafficking.
+Non-profit organization helping victims of sex trafficking. [run2rescue.com](run2rescue.com)
 
 * USDC 0xf4947C84458624490F91890A33E70F333e70AEaD
 * BTC 3PawXNNY2iXmxLLaZVhsHaxshTPFWG8nME
