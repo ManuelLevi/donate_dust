@@ -4,6 +4,8 @@ A list of non-profit organizations accepting crypto donations.
 
 Clean your dust and help someone!
 
+To add more organizations, just make a pull request!
+
 
 ## Run2Rescue
 Non-profit organization helping victims of sex trafficking.
